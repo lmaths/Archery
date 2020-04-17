@@ -184,13 +184,25 @@ __meta__ = {
 }
 
 [node name="Label2" type="Label" parent="Arco"]
-margin_left = 11.6117
-margin_top = 18.2135
-margin_right = 51.6117
-margin_bottom = 49.2135
-rect_scale = Vector2( 1.51096, 1.51096 )
+margin_left = 10.2913
+margin_top = 8.97088
+margin_right = 50.2913
+margin_bottom = 39.9709
+rect_scale = Vector2( 2.51096, 2.51096 )
 text = "Score:
 "
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label3" type="Label" parent="Arco"]
+margin_left = 428.183
+margin_top = 29.4216
+margin_right = 476.183
+margin_bottom = 43.4216
+rect_rotation = 0.943473
+rect_scale = Vector2( 2.80634, 2.80634 )
+text = "LEVEL 1"
 __meta__ = {
 "_edit_use_anchors_": false
 }
